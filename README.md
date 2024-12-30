@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hridoy7887-stack
 - 👀 I’m interested in Full-stack Web-Development
-- 🌱 I’m currently learning Front-end Web-Development
+- 🌱 I’m currently learning Mern Stack Development
 - 💞️ I’m looking to collaborate on this project
 - 📫 How to reach me FB: https://www.facebook.com/Hridoy7887/  X: https://x.com/HridoyAhmedRahi
 - 😄 Pronouns: ....
